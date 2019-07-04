@@ -1,6 +1,7 @@
 sympy
 numpy
 ipython
+matplotlib
 ipywidgets
 ipydex
 symbtools
