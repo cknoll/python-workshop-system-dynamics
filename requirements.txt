@@ -1,0 +1,7 @@
+sympy
+numpy
+ipython
+ipywidgets
+ipydex
+symbtools
+
