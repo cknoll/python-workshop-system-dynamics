@@ -5,5 +5,5 @@ matplotlib
 ipywidgets
 ipydex
 symbtools
-pytrajectory
+pytrajectory>=1.5.2
 
